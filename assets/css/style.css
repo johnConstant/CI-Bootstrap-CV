@@ -42,3 +42,34 @@ header {
     margin-bottom: 90px;
     color:#fff;
 }
+
+/* ---- Nav ----- */
+
+
+.ui-menu-colour-home {
+    background-color: #e67e22;
+}
+
+.ui-menu-colour-resume {
+    background-color: #9b59b6;
+}
+
+.ui-menu-colour-contact {
+    background-color: #3498db;
+}
+
+.ui-menu-colour-download {
+    background-color: #525252;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menu-container {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+}
