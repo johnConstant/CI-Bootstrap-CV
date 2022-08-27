@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+body {
+}
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url('../images/rosie.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all 0.5s ease-in-out;
+}
